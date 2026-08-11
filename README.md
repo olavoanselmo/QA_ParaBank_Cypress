@@ -1,8 +1,12 @@
-# Desafio BugBank
+# Projeto de testes ParaBank
 
 <div align="center">
-<img src="bugbank.png" height="100" alt="Quantidade de Testes"  />
+<img width="181" height="39" alt="logo" src="https://github.com/user-attachments/assets/add171a2-2219-4c89-9de0-83c0a701283c" />
 </div>
+
+
+
+
 
 ---
 ## 📋 **Descrição do Projeto**
